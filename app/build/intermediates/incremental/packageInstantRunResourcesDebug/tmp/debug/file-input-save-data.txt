@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Jun 08 12:58:39 IST 2018
+0.baseType=DIRECTORY
+0.base=F\:\\SpeechRecognizer-20180608T070243Z-001\\SpeechRecognizer\\app\\build\\intermediates\\assets\\debug
+0.path=CocktailsDB.sqlite
+0.set=ASSET
+count=1

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">755690064853-b5p0j12v0oj1sh03btkqmo2oaj10h3u7.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://speechrecognizer-6ccbc.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">755690064853</string>
+    <string name="google_api_key" translatable="false">AIzaSyBY7OVlMcGbWU3uq4w6zu3X0B5xlLAYH74</string>
+    <string name="google_app_id" translatable="false">1:755690064853:android:69cd3fb9594d5ca8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBY7OVlMcGbWU3uq4w6zu3X0B5xlLAYH74</string>
+    <string name="google_storage_bucket" translatable="false">speechrecognizer-6ccbc.appspot.com</string>
+    <string name="project_id" translatable="false">speechrecognizer-6ccbc</string>
+</resources>
